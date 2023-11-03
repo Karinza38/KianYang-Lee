@@ -1,7 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![banner](./images/banner.png)
 # 🤙🏻 Let's Connect
-[![Linkedin Badge](https://img.shields.io/badge/-KianYang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kian-yang-lee-88192336/)](https://www.linkedin.com/in/kian-yang-lee-88192336/) [![Website Badge](https://img.shields.io/badge/-Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.makeschool.com/portfolio/yin-chang)](https://www.makeschool.com/portfolio/yin-chang) [![Gmail Badge](https://img.shields.io/badge/-kianyang28@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kianyang28@gmail.com)](mailto:kianyang28@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-KianYang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kian-yang-lee-88192336/)](https://www.linkedin.com/in/kian-yang-lee-88192336/) [![Website Badge](https://img.shields.io/badge/-Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.makeschool.com/portfolio/yin-chang)](https://www.makeschool.com/portfolio/yin-chang) [![Gmail Badge](https://img.shields.io/badge/-ken.lee.kianyang@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ken.lee.kianyang@gmail.com)](mailto:ken.lee.kianyang@gmail.com)
 
 # 🔧 Techology and Tools
 ||Skills|
